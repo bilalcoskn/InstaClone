@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "261392031639",
+    "firebase_url": "https://instaclonefirebase-1d814.firebaseio.com",
+    "project_id": "instaclonefirebase-1d814",
+    "storage_bucket": "instaclonefirebase-1d814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261392031639:android:fe3a1cbb3df406a3996ed2",
+        "android_client_info": {
+          "package_name": "com.bilalcoskun.instaclonefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261392031639-h4f2a1shaoph0la888ad5t7ihk785ulf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATtZv0lMM0FfdXR3zcfav3tOo6PsaYeCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261392031639-h4f2a1shaoph0la888ad5t7ihk785ulf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
